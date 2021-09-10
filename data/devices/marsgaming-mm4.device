@@ -1,0 +1,4 @@
+[Device]
+Name=Mars Gaming MM4
+DeviceMatch=usb:04d9:fa58
+Driver=marsgaming
